@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string-array name="countries">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Sri lanka</item>
+        <item>Bangladesh</item>
+        <item>Afghanistan</item>
+        <item>Nepal</item>
+        <item>China</item>
+    </string-array>
+</resources>
